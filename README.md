@@ -30,7 +30,6 @@ To complete Phase 1 and submit evidence of your completion:
 2. Download all the key tools listed below
 3. Log in to your Microsoft account and take a full-page screenshot of the Microsoft Learn collection that you completed (please complete all the modules if you haven't already).
 - Note: To take a full-page screenshot, you can use [this Chrome extension](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj) or if you are using Edge or Firefox, you can press Ctrl+Shift+S and then select "Capture/Save full page".
-- Note: If there are modules in the collection that you have not completed, please complete t
 4. Submit this form by [DATE TBC]: [LINK TBC]
 
 ## Key Tools
