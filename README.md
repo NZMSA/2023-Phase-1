@@ -6,6 +6,12 @@ The expected workload for Phase 1 of each stream is 3-4 hours/week. As such, we 
 
 Phase 2 will build upon the content for each stream with a technical project, and summer placements will be either in Software Development or Data Science. As such, we recommend that you follow one stream only in order to manage your time effectively and build your knowledge and skills within one stream as much as you can.
 
+- [Getting Started](https://github.com/NZMSA/2023-Phase-1/blob/main/README.md#getting-started)
+- [Content Schedule](https://github.com/NZMSA/2023-Phase-1/blob/main/README.md#content-schedule)
+- [Submission](https://github.com/NZMSA/2023-Phase-1/blob/main/README.md#submission)
+- [Key Tools](https://github.com/NZMSA/2023-Phase-1/blob/main/README.md#key-tools)
+- [Support](https://github.com/NZMSA/2023-Phase-1/blob/main/README.md#support)
+
 ## Getting Started
 
 To get started with Phase 1:
@@ -35,8 +41,8 @@ To complete Phase 1 and submit evidence of your completion:
 ## Key Tools
 
 Here is a list of all the key tools you will need for the programme, we recommend that you download these before starting Phase 1 so that you can:
-- get familiar with them and gain as much value from the Microsoft Learn modules in Phase 1, which require you to download or use some of them
-- be well prepared for Phase 2, where you will be actively using these tools.
+- Get familiar with them and gain as much value from the Microsoft Learn modules in Phase 1, which require you to download or use some of them.
+- Be well prepared for Phase 2, where you will be actively using these tools.
 
 ### Both Streams
 
@@ -68,9 +74,9 @@ Here is a list of all the key tools you will need for the programme, we recommen
 - [Python](https://www.python.org/downloads)
   - After downloading, please complete this tutorial to set up VS Code: [Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
 
-## Help
+## Support
 
-If you have any questions, please contact the MSA team via our:
+If you have any questions, comments, or concerns, please contact the MSA team via our:
 - [Discord server](https://discord.gg/2WCtnQDjEf)
 - [Facebook group](https://www.facebook.com/groups/msaccelerator)
 - [Messenger chat](https://www.m.me/studentaccelerator)
