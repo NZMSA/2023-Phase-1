@@ -7,7 +7,7 @@ The expected workload for Phase 1 of each stream is 3-4 hours/week. As such, we 
 Phase 2 will build upon the content for each stream with a technical project, and summer placements will be either in Software Development or Data Science. As such, we recommend that you follow one stream only in order to manage your time effectively and build your knowledge and skills within one stream as much as you can.
 
 - [Getting Started](https://github.com/NZMSA/2023-Phase-1/tree/main#getting-started)
-- [Content Schedule]https://github.com/NZMSA/2023-Phase-1/tree/main#content-schedule)
+- [Content Schedule](https://github.com/NZMSA/2023-Phase-1/tree/main#content-schedule)
 - [Submission](https://github.com/NZMSA/2023-Phase-1/tree/main#submission)
 - [Key Tools](https://github.com/NZMSA/2023-Phase-1/tree/main#key-tools)
 - [Support](https://github.com/NZMSA/2023-Phase-1/tree/main#support)
