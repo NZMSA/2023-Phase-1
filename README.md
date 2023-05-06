@@ -59,7 +59,7 @@ Here is a list of all the key tools you will need for the programme, we recommen
 - [Node.js](https://nodejs.org/en/download)
   - For backend web development
   - After downloading, please complete this tutorial to set up VS Code: [Node.js in VS Code](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial)
-  - Note: The Node.js Package Manager (npm) is also installed with Node.js
+  - Note: The Node.js Package Manager ([npm](https://www.npmjs.com)) is also installed with Node.js, which allows you to use code created by other developers in your own code
 - [React](https://github.com/facebook/create-react-app#creating-an-app)
   - For frontend web development
   - After downloading, please complete this tutorial to set up VS Code: [React in VS Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
