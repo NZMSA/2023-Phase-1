@@ -58,12 +58,12 @@ Here is a list of all the key tools you will need for the programme, we recommen
 
 - [Node.js](https://nodejs.org/en/download)
   - For backend web development
-  - After downloading, please complete this tutorial to set up VS Code: [React in VS Code](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial)
+  - After downloading, please complete this tutorial to set up VS Code: [Node.js in VS Code](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial)
   - Note: The Node.js Package Manager (npm) is also installed with Node.js
 - [React](https://github.com/facebook/create-react-app#creating-an-app)
   - For frontend web development
-  - After downloading, please complete this tutorial to set up VS Code: [Node.js in VS Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
-  - Note: You do not need to download anything else if you have downloaded Node.js, but we recommend you follow the steps in the link above to ensure everything is working correctly
+  - After downloading, please complete this tutorial to set up VS Code: [React in VS Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
+  - Note: You do not need to download anything else if you have downloaded Node.js, but we recommend you follow the steps in the React link above to ensure everything is working correctly
 - [Visual Studio Community](https://visualstudio.microsoft.com/vs/community)
   - An integrated developer environment (IDE) for the C# language
 - [.NET 7](https://dotnet.microsoft.com/en-us/download)
