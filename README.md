@@ -1,13 +1,13 @@
-# MSA NZ 2023 Phase 1
+# 2023 Phase 1
 
 Welcome to Phase 1 of the 2023 MSA programme! This year, the programme is split into two streams (Software Development and Data Science), and Phase 1 consists of Microsoft Learn modules for each stream.
 
-The expected workload for Phase 1 of each stream is 3-4 hours per week. As such, we recommend that you use the content schedule below to spread out your workload and not try to complete everything in one week.
+The expected workload for Phase 1 of each stream is 3-4 hours per week. As such, we recommend that you use the schedule below to spread out your workload and not try to complete everything in one week.
 
-Phase 2 will build upon the content for each stream with a technical project, and summer placements will be either in Software Development or Data Science. As such, we recommend that you follow one stream only in order to manage your time effectively and build your knowledge and skills within one stream as much as you can in order to stand out to employers.
+Phase 2 will build upon the knowledge for Phase 1 of each stream, and placements will be either in Software Development or Data Science. As such, we recommend that you follow one stream only in order to manage your time effectively and build your knowledge and skills within one stream as much as you can in order to stand out to employers.
 
 - [Getting Started](https://github.com/NZMSA/2023-Phase-1#getting-started)
-- [Content Schedule](https://github.com/NZMSA/2023-Phase-1#content-schedule)
+- [Schedule](https://github.com/NZMSA/2023-Phase-1#schedule)
 - [Submission](https://github.com/NZMSA/2023-Phase-1#submission)
 - [Key Tools](https://github.com/NZMSA/2023-Phase-1#key-tools)
 - [Support](https://github.com/NZMSA/2023-Phase-1#support)
@@ -19,15 +19,15 @@ To get started with Phase 1:
 - Note: Please sign up for the programme using the same email as the Microsoft account you want to use for the programme (if you already have one)
 2. [Create a Microsoft account](https://account.microsoft.com/account/Account) if you don't already have one: 
 - Note: Please create an account using the same email that you signed up for the programme with
-3. Log in to [Microsoft Learn](https://learn.microsoft.com/en-us) with your Microsoft account
-4. Complete all the Microsoft Learn modules listed in the content schedule below for your chosen stream
+3. Log in to [Microsoft Learn](https://learn.microsoft.com/en-nz) with your Microsoft account
+4. Complete all the Microsoft Learn modules listed in the schedule below for your chosen stream
 
-## Content Schedule
+## Schedule
 
-The content schedule is split into six weeks, and each week is split into the two streams (Software Development and Data Science).
+The schedule is split into six weeks, and each week is split into the two streams (Software Development and Data Science).
 
 All the Microsoft Learn modules listed below can be found in these Microsoft Learn collections for easy access and completion tracking:
-- [Software Development collection](https://learn.microsoft.com/en-us/users/msa-nz/collections/4m8nhoyrwj1555)
+- [Software Development collection](https://learn.microsoft.com/en-nz/users/msa-nz/collections/4m8nhoyrwj1555)
 - [Data Science collection](https://learn.microsoft.com/en-nz/users/msa-nz/collections/n2kyanp2128q50)
 
 ### Week 1 (8 May - 14 May)
@@ -91,7 +91,7 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 2. [Access external libraries from TypeScript](https://learn.microsoft.com/en-us/training/modules/typescript-work-external-libraries)
 3. [Organize code using TypeScript namespaces](https://learn.microsoft.com/en-us/training/modules/typescript-namespaces-organize-code)
 
-Note: This week contains less content than others, so we recommend you use this opportunity to practice the Software Development skills you've learned so far using other resources you find.
+Note: This week contains fewer modules than others, so we recommend you use this opportunity to practice the Software Development skills you've learned so far using other resources you find.
 
 #### Data Science
 
@@ -139,7 +139,7 @@ Note: This week contains less content than others, so we recommend you use this 
 ## Submission
 
 To complete Phase 1 and submit evidence of your completion:
-1. Complete all the Microsoft Learn modules listed in the content schedule above
+1. Complete all the Microsoft Learn modules listed in the schedule above
 2. Download all the key tools listed below
 3. Log in to your Microsoft account and take a full-page screenshot of the Microsoft Learn collection that you completed (please complete all the modules if you haven't already).
 - [Software Development collection](https://learn.microsoft.com/en-nz/users/msa-nz/collections/4m8nhoyrwj1555)
