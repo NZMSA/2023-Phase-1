@@ -132,8 +132,9 @@ Note: This week contains fewer modules than others, so we recommend you use this
 
 #### Data Science
 
-1. [Get started with Power BI](https://learn.microsoft.com/en-us/training/paths/get-started-power-bi) (this is a path consisting of several modules - please complete all modules listed in the path)
-2. [Get and transform data with Power BI](https://learn.microsoft.com/en-us/training/paths/get-transform-data-power-bi) (tthis is a path consisting of several modules - please complete all modules listed in the path)
+1. [Get started building with Power BI](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi)
+2. [Get data in Power BI](https://learn.microsoft.com/en-us/training/modules/get-data)
+3. [Clean, transform, and load data in Power BI](https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi)
 
 ## Submission
 
