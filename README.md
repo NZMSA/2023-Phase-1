@@ -79,8 +79,8 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 
 1. [Introduction to machine learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-machine-learning)
 2. [Introduction to data for machine learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-data-for-machine-learning)
-3. https://learn.microsoft.com/en-us/training/modules/introduction-to-classical-machine-learning/
-4. https://learn.microsoft.com/en-us/training/modules/understand-regression-machine-learning/
+3. [Build classical machine learning models with supervised learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-classical-machine-learning)
+4. [Train and understand regression models in machine learning](https://learn.microsoft.com/en-us/training/modules/understand-regression-machine-learning)
 5. [Introduction to rocket launches](https://learn.microsoft.com/en-us/training/paths/machine-learning-predict-launch-delay-nasa)
 
 ### Week 4 (29 May - 4 Jun)
