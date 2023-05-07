@@ -43,9 +43,8 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 
 #### Data Science
 
-1. [Introduction to GitHub](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github)
-2. [Introduction to GitHub in Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-visual-studio-code)
-3. [Python for beginners](https://learn.microsoft.com/en-us/training/paths/beginner-python) (this is a path consisting of several modules - please complete all modules listed in the path)
+1. [Introduction to GitHub in Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-visual-studio-code)
+2. [Python for beginners](https://learn.microsoft.com/en-us/training/paths/beginner-python) (this is a path consisting of several modules - please complete all modules listed in the path)
 
 ### Week 2 (15 May - 21 May)
 
@@ -81,7 +80,7 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 2. [Introduction to data for machine learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-data-for-machine-learning)
 3. [Build classical machine learning models with supervised learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-classical-machine-learning)
 4. [Train and understand regression models in machine learning](https://learn.microsoft.com/en-us/training/modules/understand-regression-machine-learning)
-5. [Introduction to rocket launches](https://learn.microsoft.com/en-us/training/paths/machine-learning-predict-launch-delay-nasa)
+5. [Introduction to rocket launches](https://learn.microsoft.com/en-us/training/modules/introduction-rocket-launch-nasa)
 
 ### Week 4 (29 May - 4 Jun)
 
