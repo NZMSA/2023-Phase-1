@@ -17,7 +17,7 @@ Phase 2 will build upon the knowledge for Phase 1 of each stream, and placements
 To get started with Phase 1:
 1. [Sign up for the 2023 MSA programme](https://forms.office.com/r/beXXMJTAac)
 - Note: Please sign up for the programme using the same email as the Microsoft account you want to use for the programme (if you already have one)
-2. [Create a Microsoft account](https://account.microsoft.com/account/Account) if you don't already have one: 
+2. [Create a Microsoft account](https://account.microsoft.com/account/Account) if you don't already have one 
 - Note: Please create an account using the same email that you signed up for the programme with
 3. Log in to [Microsoft Learn](https://learn.microsoft.com/en-nz) with your Microsoft account
 4. Complete all the Microsoft Learn modules listed in the schedule below for your chosen stream
@@ -195,5 +195,10 @@ Here is a list of all the key tools you will need for the programme, we recommen
 
 If you have any questions, comments, or concerns, please contact the MSA team via our:
 - [Discord server](https://discord.gg/2WCtnQDjEf)
+  -  Our main and fastest way of getting both technical and non-technical support, post your query in one of the public channels
 - [Facebook group](https://www.facebook.com/groups/msaccelerator)
+  - Post your query in the group after joining, but note that this is primarily monitored by our Marketing team so any technical queries may be delayed
 - [Messenger chat](https://www.m.me/studentaccelerator)
+  - Use this if would like to contact us privately, but note that this is primarily monitored by our Marketing team so any technical queries may be delayed
+- [Email](mailto:msaccelerate@hotmail.com)
+  - Use this if would like to contact us privately, but note that this is primarily monitored by our Marketing team so any technical queries may be delayed
