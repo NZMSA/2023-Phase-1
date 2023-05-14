@@ -1,11 +1,14 @@
 # 2023 Phase 1
 
-Welcome to Phase 1 of the 2023 MSA programme! This year, the programme is split into two streams (Software Development and Data Science), and Phase 1 consists of Microsoft Learn modules for each stream.
+Welcome to Phase 1 of the 2023 MSA programme! This year, the programme is split into two streams (Software Development and Data Science), and Phase 1 consists of Microsoft Learn modules for each stream. For more information, please visit the following links:
+- [2023 Programme Launch](https://www.youtube.com/watch?v=NaLTjSn9GyY), a YouTube video that provides an overview of this year's programme
+- [Frequently asked questions and answers](https://1drv.ms/w/s!AhUTdgNym7JMnXR2kDiGvhJsfcjo?e=ML2NyC) about the programme
 
 The expected workload for Phase 1 of each stream is 3-4 hours per week. As such, we recommend that you use the schedule below to spread out your workload and not try to complete everything in one week.
 
 Phase 2 will build upon the knowledge for Phase 1 of each stream, and placements will be either in Software Development or Data Science. As such, we recommend that you follow one stream only in order to manage your time effectively and build your knowledge and skills within one stream as much as you can in order to stand out to employers.
 
+Contents:
 - [Getting Started](https://github.com/NZMSA/2023-Phase-1#getting-started)
 - [Schedule](https://github.com/NZMSA/2023-Phase-1#schedule)
 - [Submission](https://github.com/NZMSA/2023-Phase-1#submission)
