@@ -64,8 +64,9 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 #### Data Science
 
 1. [Explore and analyze data with Python](https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python)
-2. [Data collection and manipulation](https://learn.microsoft.com/en-us/training/paths/machine-learning-predict-launch-delay-nasa)
-3. [Get started with AI on Azure](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals)
+2. [Data collection and manipulation](https://learn.microsoft.com/en-us/training/modules/collect-manipulate-data-python-nasa)
+- Note: The Excel file link in the module above is broken (as of 16/5/23). Please use [this OneDrive link](https://1drv.ms/x/s!AhUTdgNym7JMniQMzHt9Bu-1_McY?e=Ez8arx) to access the dataset instead.
+4. [Get started with AI on Azure](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals)
 
 ### Week 3 (22 May - 28 May)
 
