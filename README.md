@@ -66,7 +66,9 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 1. [Explore and analyze data with Python](https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python)
 2. [Data collection and manipulation](https://learn.microsoft.com/en-us/training/modules/collect-manipulate-data-python-nasa)
 - Note: The Excel file link in the module above is broken (as of 16/5/23). Please use [this OneDrive link](https://1drv.ms/x/s!AhUTdgNym7JMniQMzHt9Bu-1_McY?e=Ez8arx) to access the dataset instead.
-4. [Get started with AI on Azure](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals)
+3. [Get started with AI on Azure](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals)
+4. [Introduction to machine learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-machine-learning)
+5. [Introduction to rocket launches](https://learn.microsoft.com/en-us/training/modules/introduction-rocket-launch-nasa)
 
 ### Week 3 (22 May - 28 May)
 
@@ -80,11 +82,10 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 
 #### Data Science
 
-1. [Introduction to machine learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-machine-learning)
-2. [Introduction to data for machine learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-data-for-machine-learning)
+1. [Introduction to data for machine learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-data-for-machine-learning)
+2. [Create and understand classification models in machine learning](https://learn.microsoft.com/en-us/training/modules/understand-classification-machine-learning)
 3. [Build classical machine learning models with supervised learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-classical-machine-learning)
 4. [Train and understand regression models in machine learning](https://learn.microsoft.com/en-us/training/modules/understand-regression-machine-learning)
-5. [Introduction to rocket launches](https://learn.microsoft.com/en-us/training/modules/introduction-rocket-launch-nasa)
 
 ### Week 4 (29 May - 4 Jun)
 
